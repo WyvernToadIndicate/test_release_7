@@ -1,0 +1,10 @@
+{
+    "base_address": 4194304,
+    "player_health": 16,
+    "player_money": 20,
+    "player_position": 24,
+    "game_state": 32,
+    "player_balance": 48,
+    "token_price": 52,
+    "token_volume": 56
+}
